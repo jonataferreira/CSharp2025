@@ -1,0 +1,15 @@
+C:\DIO\C#\Excecoes\CSharp2025\bin\Debug\net9.0\Excecoes.exe
+C:\DIO\C#\Excecoes\CSharp2025\bin\Debug\net9.0\Excecoes.deps.json
+C:\DIO\C#\Excecoes\CSharp2025\bin\Debug\net9.0\Excecoes.runtimeconfig.json
+C:\DIO\C#\Excecoes\CSharp2025\bin\Debug\net9.0\Excecoes.dll
+C:\DIO\C#\Excecoes\CSharp2025\bin\Debug\net9.0\Excecoes.pdb
+C:\DIO\C#\Excecoes\CSharp2025\obj\Debug\net9.0\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\C#\Excecoes\CSharp2025\obj\Debug\net9.0\Excecoes.AssemblyInfoInputs.cache
+C:\DIO\C#\Excecoes\CSharp2025\obj\Debug\net9.0\Excecoes.AssemblyInfo.cs
+C:\DIO\C#\Excecoes\CSharp2025\obj\Debug\net9.0\Excecoes.csproj.CoreCompileInputs.cache
+C:\DIO\C#\Excecoes\CSharp2025\obj\Debug\net9.0\Excecoes.sourcelink.json
+C:\DIO\C#\Excecoes\CSharp2025\obj\Debug\net9.0\Excecoes.dll
+C:\DIO\C#\Excecoes\CSharp2025\obj\Debug\net9.0\refint\Excecoes.dll
+C:\DIO\C#\Excecoes\CSharp2025\obj\Debug\net9.0\Excecoes.pdb
+C:\DIO\C#\Excecoes\CSharp2025\obj\Debug\net9.0\Excecoes.genruntimeconfig.cache
+C:\DIO\C#\Excecoes\CSharp2025\obj\Debug\net9.0\ref\Excecoes.dll

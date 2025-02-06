@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DIO\\C#\\Excecoes\\Excecoes.csproj",
+      "projectUniqueName": "C:\\DIO\\C#\\Excecoes\\CSharp2025\\Excecoes.csproj",
       "projectName": "Excecoes",
-      "projectPath": "C:\\DIO\\C#\\Excecoes\\Excecoes.csproj",
+      "projectPath": "C:\\DIO\\C#\\Excecoes\\CSharp2025\\Excecoes.csproj",
       "packagesPath": "C:\\Users\\Ferreira\\.nuget\\packages\\",
-      "outputPath": "C:\\DIO\\C#\\Excecoes\\obj\\",
+      "outputPath": "C:\\DIO\\C#\\Excecoes\\CSharp2025\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
