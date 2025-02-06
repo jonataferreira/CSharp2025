@@ -1,7 +1,18 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using CSharp2025.modules;
 
 
-try
+
+new ExemploExcecao().Metodo1();
+
+
+
+
+
+
+
+
+/*try
 {
     string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
 
@@ -23,9 +34,13 @@ catch (Exception ex)
 {
     Console.WriteLine($"Ocorreu uma exceção genérica {ex.Message}");
 }
+finally
+{
+    Console.WriteLine("Fim da execução");
+}
 
 
 
 
 
-
+*/
