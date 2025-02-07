@@ -8,6 +8,22 @@ using CSharp2025.modules;
 
 
 
+
+
+
+
+
+
+
+/*int n = 101;
+bool teste = false;
+
+teste = n % 2 == 0;
+Console.WriteLine($"O número {n} é " + (teste ? "par" : "ímpar"));
+*/
+
+/*
+
 Dictionary<string, string> estados = new Dictionary<string, string>(); //Declarando Dictionary
 
 //Adicionando valores
@@ -16,7 +32,7 @@ estados.Add("BA","Bahia");
 estados.Add("MG","Minas Gerais");
 
 
-foreach(/*KeyValuePair<string, string>*/ var item in estados) //Mostando Valores
+foreach(/*KeyValuePair<string, string>*//* var item in estados) //Mostando Valores
 {
     Console.WriteLine($"Chave:{item.Key}, Valor:{item.Value}");
 }
@@ -25,11 +41,11 @@ Console.WriteLine($"---------------------------");
 estados.Remove("BA"); //Removendo o valor
 estados["SP"] = "São Paulo - Nome alterado"; //Modificando Valor
 
-foreach(/*KeyValuePair<string, string>*/ var item in estados)
+foreach(/*KeyValuePair<string, string>*//* var item in estados)
 {
     Console.WriteLine($"Chave:{item.Key}, Valor:{item.Value}");
 }
-
+*/
 
 
 
